@@ -1,0 +1,46 @@
+div{
+    margin-left: 350px;
+    width: 300px;
+    height: 500px;
+    background-color: #DC143C;
+    border-radius: 10px;
+}
+body{
+    background-image: url(https://media1.thehungryjpeg.com/thumbs2/ori_3485359_98866328c4343ad1175b361382cd838f968c8eab_psychedelic-patterns-pack.jpg);
+    background-repeat: repeat;
+    background-position: center;
+}
+
+h1{
+    margin-left: 65px;
+}
+.correo{
+    margin-left: 120px;
+    margin-top: 60px;
+}
+.texto, .contra{
+    margin-left: 65px;
+    border-radius: 35px;
+
+}
+.pass{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+
+
+.entrar{
+    margin-top: 20px;
+    margin-left: 110px;
+}
+
+.perder{
+    margin-top: 15px;
+    border-radius: 35px;
+    margin-left: 80px;
+}
+
+.imagen{
+    margin-left: 75px;
+}
